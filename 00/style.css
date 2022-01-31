@@ -5,6 +5,8 @@ body {
 h1 {
   font-size: 100px;
   font-weight: bolder;
+  color: #00ffff;
+  text-shadow:0 0 25px #93ffff;
 }
 .text-search {
   border-radius: 20px;
